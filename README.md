@@ -1,6 +1,8 @@
 ﻿# DuelUtilityToolBOT
-- 大体のことはここに書いてある（http://atriasoft.work/cs/537）
-- DiscordのDeveloperサイトでBOTを作る（https://discord.com/developers/applications/）
+- 大体のことはここに書いてある
+    - http://atriasoft.work/cs/537
+- DiscordのDeveloperサイトでBOTを作る
+    - https://discord.com/developers/applications/
 - BOTのトークンを取得する
 - 取得したトークンをProgram.csのL28にある`"BOTのトークン"`に上書きする
 - L45の`"general"`を、ご自身のDiscordサーバーにあるテキストチャンネルの名前で上書きする
